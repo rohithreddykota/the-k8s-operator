@@ -1391,3 +1391,6 @@ func (r *CronJob) validateCronJobName() *field.Error {
 }
 // +kubebuilder:docs-gen:collapse=Validate object name
 ```
+
+
+[Reference](https://github.com/moza88/cronjob-kubebuilder-tutorial)
